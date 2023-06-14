@@ -41,7 +41,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=5.5",
-        "2amigos/yii2-selectize-widget": "^1.1",
+        "vinhhung1108/yii2-selectize-widget": "^1.0.0",
         "yiisoft/yii2-authclient": "^2.1",
         "yiisoft/yii2-httpclient": "^2.0",
         "yetopen/yii2-sms-sender-interface": "^0.1.1"
