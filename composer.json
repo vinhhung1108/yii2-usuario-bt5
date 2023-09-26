@@ -41,7 +41,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=5.5",
-        "vinhhung1108/yii2-selectize-widget": "^1.0.0",
+        "vinhhung1108/yii2-selectize-widget": "^1.0.1",
         "yiisoft/yii2-bootstrap5": "*",
         "yiisoft/yii2-authclient": "^2.1",
         "yiisoft/yii2-httpclient": "^2.0",
